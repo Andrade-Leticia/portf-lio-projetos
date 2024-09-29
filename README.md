@@ -9,3 +9,5 @@ https://github.com/Andrade-Leticia/jokenpo
 https://github.com/Andrade-Leticia/Quiz-Capitais
 
 https://github.com/Andrade-Leticia/site-ong
+
+https://github.com/Andrade-Leticia/TDE-01-NATUREZA-DISCRETA
